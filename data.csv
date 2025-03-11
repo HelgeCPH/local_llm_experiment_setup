@@ -1,5 +1,5 @@
 Exam Set;With AI;Participant;Task 1;Task 2;Task 3;Task 4;Task 5;Task 6;Task 7;Task 8;Task 9;In what subject was your bachelor?;How many years of developer experience do you have?;How many years of experience do you have with Java?;How many months is it since you coded in Java?;How many years of experience do you have with Visual Studio Code?;How much experience in years do you have in using an LLM(ChatGPT, CoPilot, Gemini)?;Lazy Programmer;Which operating system do you usually use;Task 1 points;Task 2 points;Task 3 points;Task 4 points;Task 5 points;Task 6 points;Task 7 points;Task 8 points;Task 9 points;Total Points;Unit Test;Grade;sumif formula;Sum lzy;Lazy avg;Not lazy avg;Sum not lazy
-Exam set 2;Yes;1;107 1;91 1;69 1;114 1;146 0;58 0;96 1;N/A;N/A;Business Economics & Information System ;4;1.5;0;2;2;Yes;MacOS;20;10;15;20;15;15;25;N/A;N/A;120;100;12;0;30;5,266666667;5,714285714;14
+Exam set 2;Yes;1;107 1;91 1;69 1;114 1;146 0;58 0;96 1;N/A;N/A;Business Economics & Information System ;4;1.5;0;2;2;Yes;MacOS;20;10;15;20;15;15;25;N/A;N/A;120;100;12;0;30;5.266666667;5.714285714;14
 Exam set 1;No;1;122;157;76;131;235;42;224;421;4;;;;;;;Yes;;15;10;5;15;15;10;13;13;0;96;90;10;;;;;
 Exam set 2;Yes;2;149 0;138 0;199 1;404 2;107 0;330 0;338 0;N/A;N/A;International sales and marketing;2;0.5;0;2;0.5;No;Windows;17;5;15;18;15;15;25;N/A;N/A;110;94;12;;;;;
 Exam set 1;No;2;126;96;58;207;125;40;277;506;163;;;;;;;No;;14;9;5;15;15;10;14;20;15;117;90;12;;;;;
@@ -17,11 +17,11 @@ Exam set 2;Yes;8;224 3;245 2;311 2;393 3;189 0;105 0;587 3;N/A;N/A;Literaturvide
 Exam set 1;No;8;210;17;88;176;121;287;323;347;136;;;;;;;No;;14;10;5;15;15;10;15;19;13;116;100;12;;;;;
 Exam set 2;Yes;9;102 1;94 1;51 1;104 1;111 0;67 0;79 1;N/A;N/A;Global Business Informatics;2;0.5;13;2;1;Yes;MacOS;20;10;15;20;15;15;25;N/A;N/A;120;80;12;;;;;
 Exam set 1;No;9;140;251;41;168;119;71;214;433;N/A;;;;;;;Yes;;15;0;5;15;15;10;5;10;0;75;60;7;;;;;
-Exam set 2;Yes;10;195 1;249 1;239 1;191 1;375 0;139 0;137 1;N/A;N/A;Economy;1.5;1.5;8;1.5;0,5;Yes;MacOS;20;10;15;18;14;15;25;N/A;N/A;117;98;12;;;;;
+Exam set 2;Yes;10;195 1;249 1;239 1;191 1;375 0;139 0;137 1;N/A;N/A;Economy;1.5;1.5;8;1.5;0.5;Yes;MacOS;20;10;15;18;14;15;25;N/A;N/A;117;98;12;;;;;
 Exam set 1;No;10;250;162;102;410;128;89;285;276;91;;;;;;;Yes;;15;10;5;15;7;10;14;0;0;76;68;7;;;;;
-Exam set 2;Yes;11;110 1;160 1;339 1;131 2;122 0;129 0;197 1;N/A;N/A;Modern India and South Asia Studies;1.5;1.5;8;1.5;0,5;No;Windows;20;10;15;20;15;0;25;N/A;N/A;105;88;10;;;;;
+Exam set 2;Yes;11;110 1;160 1;339 1;131 2;122 0;129 0;197 1;N/A;N/A;Modern India and South Asia Studies;1.5;1.5;8;1.5;0.5;No;Windows;20;10;15;20;15;0;25;N/A;N/A;105;88;10;;;;;
 Exam set 1;No;11;137;112;78;224;146;63;231;234;143;;;;;;;No;;15;10;5;15;10;10;14;0;0;79;70;7;;;;;
-Exam set 2;Yes;12;118 1;72 0;127 1;90 1;98 0;68 0;61 1;N/A;N/A;Digital Design and Interactive Technologies;1.5;2;2;6;1,5;Yes;Windows;20;10;10;18;15;15;25;N/A;N/A;113;94;12;;;;;
+Exam set 2;Yes;12;118 1;72 0;127 1;90 1;98 0;68 0;61 1;N/A;N/A;Digital Design and Interactive Technologies;1.5;2;2;6;1.5;Yes;Windows;20;10;10;18;15;15;25;N/A;N/A;113;94;12;;;;;
 Exam set 1;No;12;116;130;20;196;270;56;592;380;N/A;;;;;;;Yes;;15;10;5;15;5;10;2;0;0;62;56;4;;;;;
 Exam set 2;No;13;277;81;166;329;170;121;223;N/A;N/A;Sound Design;2;1.5;1;3;1;No;MacOS;20;10;10;0;15;15;25;N/A;N/A;95;79;10;;;;;
 Exam set 1;Yes;13;285 1;69 1;29 1;96 1;111 0;83 0;204 1;315 1;169 1;;;;;;;No;;15;10;5;15;15;10;15;17;15;117;106;12;;;;;
@@ -47,4 +47,3 @@ Exam set 2;No;23;177;290;201;389;193;112;274;N/A;N/A;Communication;1;1;6;1.5;1;Y
 Exam set 1;Yes;23;131 1;39 1;29 1;76 1;87 1;31 1;176 1;191 1;231 1;;;;;;;Yes;;15;10;5;15;15;10;15;20;15;120;89;12;;;;;
 Exam set 2;No;24;167;329;197;346;203;175;240;N/A;N/A;International Business;1;1;3;1.5;1;Yes;MacOS;20;10;15;10;15;10;5;N/A;N/A;85;12;7;;;;;
 Exam set 1;Yes;24;103 1;87 1;43 1;112 1;147 1;42 1;290 1;153 1;200 1;;;;;;;Yes;;15;10;5;15;15;10;15;20;15;120;89;12;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

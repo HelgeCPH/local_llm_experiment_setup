@@ -96,6 +96,11 @@ def main():
     df = create_time_df()
     df2 = create_points_df()
     df["points"] = df2["points"]
+
+    # remove rows for tasks that do not exist in the exam set
+    mask = (df.exam_set == 2) & (df.task_no > 7)
+    df.drop(df[mask].index, inplace=True)
+
     df.to_csv("dataclean.csv", index=False)
 
 
